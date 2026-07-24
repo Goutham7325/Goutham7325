@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Goutham Raja</h1>
 <h3 align="center">A passionate electronics engineer from Chennai</h3>
-## 👨‍💻 About Me
+
+## About Me
 
 - 🎓 B.E. in Electrical and Electronics Engineering, SSN College of Engineering
 - 🏅 Rank 1 (CGPA: 9.365/10)
