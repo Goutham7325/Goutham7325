@@ -24,7 +24,7 @@
 - 📫 How to reach me **goutham.er07@gmail.com**
 
 - 📄 Know about my experiences <a href="https://drive.google.com/drive/folders/1ke6HSvxlLq2zqTgBFc_JgeSS1tQgA9iO?usp=sharing">
-  <img src="https://img.icons8.com/ios-filled/50/document--v1.png" width="30"/>
+  <img src="https://img.icons8.com/fluency/48/resume.png" width="35"/>
 </a>
 
 
