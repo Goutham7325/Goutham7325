@@ -23,7 +23,9 @@
 
 - 📫 How to reach me **goutham.er07@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1ke6HSvxlLq2zqTgBFc_JgeSS1tQgA9iO?usp=sharing](https://drive.google.com/drive/folders/1ke6HSvxlLq2zqTgBFc_JgeSS1tQgA9iO?usp=sharing)
+- 📄 Know about my experiences <a href="https://drive.google.com/drive/folders/1ke6HSvxlLq2zqTgBFc_JgeSS1tQgA9iO?usp=sharing">
+  <img src="https://img.icons8.com/ios-filled/50/document--v1.png" width="30"/>
+</a>
 
 
 <h3 align="left">Connect with me:</h3>
