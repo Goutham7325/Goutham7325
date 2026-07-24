@@ -10,13 +10,14 @@
 ## Also Me
 - 🔭 I’m currently working on [AI $ ML Projects](https://github.com/Goutham7325/embedur_training/tree/main/AIML)
 
-- 🌱 I’m currently learning **SystemVerilog, UVM**
+- 🌱 I’m currently learning            **SystemVerilog, UVM**
 
-- 👯 I’m looking to collaborate on **Merlin - Bird Sound Classifier**
+- 👯 I’m looking to collaborate on     **Merlin - Bird Sound Classifier**
 
-- 🤝 I’m looking for help with **Merlin**
+- 🤝 I’m looking for help with         **Merlin**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Goutham7325](https://github.com/Goutham7325)
+- 👨‍💻 All of my projects are available at [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Goutham7325)
+
 
 - 💬 Ask me about **Verilog, C**
 
@@ -29,7 +30,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/goutham raja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="goutham raja" height="30" width="40" /></a>
 </p>
-### 💻 Programming Languages
+
+###  💻 Programming Languages
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -73,4 +75,3 @@
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Goutham7325)
