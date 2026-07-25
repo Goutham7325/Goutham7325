@@ -5,7 +5,7 @@
 
 - 🎓 B.E. in Electrical and Electronics Engineering, SSN College of Engineering
 - 🏅 Rank 1 (CGPA: 9.365/10)
-- 🏆 Marvell M-STEM Scholarship 2026 (Top 25 in India) [![Marvell MSTEM Scholar](https://img.shields.io/badge/🎓-Marvell%20MSTEM%20Scholar-blue?style=for-the-badge)](https://www.marvell.com/blogs/uplifting-young-talent-in-the-semiconductor-industry.html)
+- 🏆 Marvell M-STEM Scholarship 2026 (Top 25 in India) [![Read More](https://img.shields.io/badge/🎓-Marvell%20MSTEM%20Scholar-blue?style=for-the-badge)](https://www.marvell.com/blogs/uplifting-young-talent-in-the-semiconductor-industry.html)
 - 📍 Chennai, India
 ## Also Me
 - 🔭 I’m currently working on [AI $ ML Projects](https://github.com/Goutham7325/embedur_training/tree/main/AIML)
